@@ -4,8 +4,7 @@ This is a simple HTTP proxy program implemented in Go using the "elazarl/goproxy
 ## Installation
 Before running this program, make sure you have the following dependencies installed:
   - Golang [ go.dev ]
-  - "elazarl/goproxy" library
-To install the "elazarl/goproxy" library, run the following command in your terminal:
+  - "elazarl/goproxy" library To install run 'go get github.com/elazarl/goproxy'
 
 ## Usage
 To use this program, follow these steps:
