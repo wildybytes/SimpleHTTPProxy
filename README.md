@@ -21,8 +21,5 @@ To use this program, follow these steps:
 6. Enter the correct username and password (admin/admin) to access the website through the proxy server.
 7. The server will log each connection in the terminal window.
 
-## Contributing
-Contributions are welcome! If you find any bugs or have suggestions for improvement, please create an issue or pull request.
-
 ## License
 Simple HTTP Proxy is licensed under the GNU General Public License V3. See the LICENSE file for more information.
